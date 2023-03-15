@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.nav {
+  background-color: tomato;
+  color: #fff;
+  padding: 5px;
+text-decoration: none;
+
+}
+.nav-item {
+  padding: 20px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 32px;
+}
